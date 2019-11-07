@@ -1,1 +1,1 @@
-# Proyecto-Home-Banking
+# Proyecto: Home Banking
